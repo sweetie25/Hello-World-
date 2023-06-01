@@ -76,22 +76,22 @@ In order to run this project you need: First you have to know how to create new 
 ### Setup
 
 Clone this repository to your desired folder:
-   https://github.com/sweetie25/Hello-Microverse-.git
+   https://github.com/sweetie25/Hello-World-.git
    
 ### Install
 
 Install this project with:npm
 
-  npm install (--npm-command-hello-microverse/app)
+  npm install (--npm-command-hello-world-/app)
   
 ### Usage
 
-To run the project, execute the following command: https://github.com/sweetie25/Hello-Microverse-
+To run the project, execute the following command: https://github.com/sweetie25/Hello-World-
 
 
 ### Run tests
 
-To run tests, run the following command: https://github.com/sweetie25/Hello-Microverse- open the project via this link and you can run tests.
+To run tests, run the following command: https://github.com/sweetie25/Hello-World- open the project via this link and you can run tests.
 
 ### Deployment
 
